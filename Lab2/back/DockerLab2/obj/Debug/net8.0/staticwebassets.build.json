@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "QT1lp39EsuYPxnsKSsXNhfsP9K7m4WJRMSoewC6SOm8=",
+  "Source": "DockerLab2",
+  "BasePath": "_content/DockerLab2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

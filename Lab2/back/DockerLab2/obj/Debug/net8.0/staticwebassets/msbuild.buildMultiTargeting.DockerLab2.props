@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DockerLab2.props" />
+</Project>
